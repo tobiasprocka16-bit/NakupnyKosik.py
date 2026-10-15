@@ -1,0 +1,1 @@
+# NakupnyKosik.py
